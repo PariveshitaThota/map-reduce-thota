@@ -1,5 +1,3 @@
-
-
 Albuquerque	149.94
 Albuquerque	183.44
 Albuquerque	192.48
