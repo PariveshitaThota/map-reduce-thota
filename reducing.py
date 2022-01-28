@@ -1,5 +1,6 @@
 s = open("s.txt","r")
 r = open("r.txt", "w")
+
 thisKey = ""
 thisValue = 0.0
 
