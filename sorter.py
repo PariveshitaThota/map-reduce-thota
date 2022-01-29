@@ -1,5 +1,5 @@
 n = open("Thota_output.txt","r")  # open file, read-only
-s = open("s.txt", "w") # open file, write
+s = open("Thota_output2.txt", "w") # open file, write
 lines = n.readlines()
 lines.sort()
 

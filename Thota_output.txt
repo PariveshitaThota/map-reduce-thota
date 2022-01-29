@@ -857,5 +857,3 @@ Fresno	418.37
 Oakland	443.37
 Jersey City	108.25
 Baltimore	0.18
-
-

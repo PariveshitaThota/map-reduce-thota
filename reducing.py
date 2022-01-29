@@ -1,5 +1,5 @@
-s = open("s.txt","r")
-r = open("r.txt", "w")
+s = open("Thota_output2.txt","r")
+r = open("Thota_output3.txt", "w")
 
 thisKey = ""
 thisValue = 0.0
